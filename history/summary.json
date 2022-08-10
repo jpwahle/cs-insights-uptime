@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/cs-insights.uni-goettingen.de",
     "slug": "backend",
     "status": "up",
-    "uptime": "1.99%",
-    "uptimeDay": "1.99%",
-    "uptimeWeek": "1.99%",
-    "uptimeMonth": "1.99%",
-    "uptimeYear": "1.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 130,
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2022-08-10": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
