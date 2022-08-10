@@ -1,8 +1,8 @@
 [
   {
     "name": "Frontend",
-    "url": "http://www.cs-insights.uni-goettingen.de",
-    "icon": "https://favicons.githubusercontent.com/www.cs-insights.uni-goettingen.de",
+    "url": "http://cs-insights.uni-goettingen.de",
+    "icon": "https://favicons.githubusercontent.com/cs-insights.uni-goettingen.de",
     "slug": "frontend",
     "status": "up",
     "uptime": "100.00%",
@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 993,
-    "timeDay": 993,
-    "timeWeek": 993,
-    "timeMonth": 993,
-    "timeYear": 993,
+    "time": 773,
+    "timeDay": 773,
+    "timeWeek": 773,
+    "timeMonth": 773,
+    "timeYear": 773,
     "dailyMinutesDown": {}
   },
   {
     "name": "Backend",
-    "url": "http://www.cs-insights.uni-goettingen.de/api/v0/status",
-    "icon": "https://favicons.githubusercontent.com/www.cs-insights.uni-goettingen.de",
+    "url": "http://cs-insights.uni-goettingen.de/api/v0/status",
+    "icon": "https://favicons.githubusercontent.com/cs-insights.uni-goettingen.de",
     "slug": "backend",
-    "status": "down",
-    "uptime": "11.75%",
-    "uptimeDay": "11.75%",
-    "uptimeWeek": "11.75%",
-    "uptimeMonth": "11.75%",
-    "uptimeYear": "11.75%",
-    "time": 164,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 164,
-    "timeYear": 164,
+    "status": "up",
+    "uptime": "1.99%",
+    "uptimeDay": "1.99%",
+    "uptimeWeek": "1.99%",
+    "uptimeMonth": "1.99%",
+    "uptimeYear": "1.99%",
+    "time": 130,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-08-10": 0
+      "2022-08-10": 3
     }
   }
 ]
