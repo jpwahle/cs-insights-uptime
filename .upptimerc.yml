@@ -4,9 +4,9 @@ repo: cs-insights-uptime # The name of this repository
 
 sites:
   - name: Frontend
-    url: http://www.cs-insights.uni-goettingen.de
+    url: http://cs-insights.uni-goettingen.de
   - name: Backend
-    url: http://www.cs-insights.uni-goettingen.de/api/v0/status
+    url: http://cs-insights.uni-goettingen.de/api/v0/status
 assignees:
   - jpwahle
   - truas
