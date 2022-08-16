@@ -7,7 +7,7 @@ sites:
     url: http://cs-insights.uni-goettingen.de
   - name: Backend
     url: http://cs-insights.uni-goettingen.de/api/v0/status
-  - name: PredictionEndpoint
+  - name: Prediction-Endpoint
     url: http://cs-insights.uni-goettingen.de:8000/api/v0/status
 assignees:
   - jpwahle
