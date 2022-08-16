@@ -10,11 +10,11 @@
     "uptimeWeek": "98.09%",
     "uptimeMonth": "98.09%",
     "uptimeYear": "98.09%",
-    "time": 879,
-    "timeDay": 1039,
-    "timeWeek": 879,
-    "timeMonth": 879,
-    "timeYear": 879,
+    "time": 874,
+    "timeDay": 977,
+    "timeWeek": 874,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2022-08-12": 103,
       "2022-08-11": 55
@@ -31,18 +31,18 @@
     "uptimeWeek": "97.38%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "97.38%",
-    "time": 288,
-    "timeDay": 120,
-    "timeWeek": 288,
-    "timeMonth": 288,
-    "timeYear": 288,
+    "time": 280,
+    "timeDay": 123,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2022-08-12": 139,
       "2022-08-11": 78
     }
   },
   {
-    "name": "PredictionEndpoint",
+    "name": "Prediction-Endpoint",
     "url": "http://cs-insights.uni-goettingen.de:8000/api/v0/status",
     "icon": "https://favicons.githubusercontent.com/cs-insights.uni-goettingen.de",
     "slug": "prediction-endpoint",
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 716,
-    "timeWeek": 716,
-    "timeMonth": 716,
-    "timeYear": 716,
+    "time": 693,
+    "timeDay": 693,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {}
   }
 ]
