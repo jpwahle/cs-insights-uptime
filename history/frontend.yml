@@ -1,7 +1,7 @@
 url: http://cs-insights.uni-goettingen.de
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2022-08-20T23:03:26.544Z
+status: down
+code: 403
+responseTime: 1505
+lastUpdated: 2022-08-21T18:00:13.482Z
 startTime: Wed Aug 10 2022 12:23:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
