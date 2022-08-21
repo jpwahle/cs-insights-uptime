@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/cs-insights.uni-goettingen.de",
     "slug": "frontend",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.95%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 849,
     "timeDay": 702,
     "timeWeek": 841,
@@ -25,18 +25,19 @@
     "url": "http://cs-insights.uni-goettingen.de/api/v0/status",
     "icon": "https://favicons.githubusercontent.com/cs-insights.uni-goettingen.de",
     "slug": "backend",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "98.56%",
-    "time": 245,
-    "timeDay": 100,
-    "timeWeek": 112,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
+    "time": 241,
+    "timeDay": 114,
+    "timeWeek": 113,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {
+      "2022-08-21": 0,
       "2022-08-12": 139,
       "2022-08-11": 78
     }
@@ -46,9 +47,9 @@
     "url": "http://cs-insights.uni-goettingen.de:8000/api/v0/status",
     "icon": "https://favicons.githubusercontent.com/cs-insights.uni-goettingen.de",
     "slug": "prediction-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +58,8 @@
     "timeWeek": 714,
     "timeMonth": 714,
     "timeYear": 714,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-21": 0
+    }
   }
 ]
