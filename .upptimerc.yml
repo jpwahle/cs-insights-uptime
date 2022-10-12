@@ -1,5 +1,5 @@
 # Change these first
-owner: gipplab # Your GitHub organization or username, where this repository lives
+owner: jpwahle # Your GitHub organization or username, where this repository lives
 repo: cs-insights-uptime # The name of this repository
 
 sites:
@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: cs-insights-uptime
-  logoUrl: https://raw.githubusercontent.com/gipplab/cs-insights-main/main/images/logo-with-text.png
+  logoUrl: https://raw.githubusercontent.com/jpwahle/cs-insights-main/main/images/logo-with-text.png
   name: cs-insights-uptime
   introTitle: "This uptime monitor tracks services of the cs-insights project and generates a status page powered entirely by GitHub actions."
   introMessage: This status page uses **real-time** data from GitHub to track the endpoints of the cs-insights project.
