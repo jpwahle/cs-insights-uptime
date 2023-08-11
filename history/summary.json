@@ -10,19 +10,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1547,
-    "timeDay": 1740,
-    "timeWeek": 1493,
-    "timeMonth": 1527,
-    "timeYear": 1547,
+    "time": 1546,
+    "timeDay": 1076,
+    "timeWeek": 1497,
+    "timeMonth": 1517,
+    "timeYear": 1554,
     "dailyMinutesDown": {
       "2023-06-12": 21,
       "2023-02-21": 22,
       "2023-01-25": 76,
       "2022-10-14": 120,
       "2022-08-21": 68,
-      "2022-08-12": 103,
-      "2022-08-11": 55
+      "2022-08-12": 103
     }
   },
   {
@@ -31,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "backend",
     "status": "up",
-    "uptime": "95.76%",
+    "uptime": "95.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.76%",
-    "time": 434,
-    "timeDay": 321,
-    "timeWeek": 245,
+    "time": 433,
+    "timeDay": 193,
+    "timeWeek": 247,
     "timeMonth": 264,
-    "timeYear": 434,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2023-06-12": 21,
       "2023-03-02": 811,
@@ -62,8 +61,7 @@
       "2023-01-25": 58,
       "2022-10-14": 119,
       "2022-08-21": 207,
-      "2022-08-12": 139,
-      "2022-08-11": 78
+      "2022-08-12": 139
     }
   },
   {
@@ -77,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 817,
-    "timeDay": 844,
-    "timeWeek": 740,
-    "timeMonth": 833,
-    "timeYear": 817,
+    "time": 816,
+    "timeDay": 646,
+    "timeWeek": 731,
+    "timeMonth": 838,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2023-06-12": 21,
       "2023-02-21": 21,
