@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1544,
-    "timeDay": 1461,
-    "timeWeek": 1463,
-    "timeMonth": 1510,
-    "timeYear": 1588,
+    "timeDay": 1496,
+    "timeWeek": 1401,
+    "timeMonth": 1523,
+    "timeYear": 1590,
     "dailyMinutesDown": {
       "2023-06-12": 21,
       "2023-02-21": 22,
       "2023-01-25": 76,
-      "2022-10-14": 120,
-      "2022-08-21": 68
+      "2022-10-14": 120
     }
   },
   {
@@ -29,16 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "backend",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.81%",
-    "time": 429,
-    "timeDay": 201,
-    "timeWeek": 241,
-    "timeMonth": 264,
-    "timeYear": 440,
+    "time": 428,
+    "timeDay": 265,
+    "timeWeek": 242,
+    "timeMonth": 266,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2023-06-12": 21,
       "2023-03-02": 811,
@@ -58,8 +57,7 @@
       "2023-02-16": 1440,
       "2023-02-15": 668,
       "2023-01-25": 58,
-      "2022-10-14": 119,
-      "2022-08-21": 207
+      "2022-10-14": 119
     }
   },
   {
@@ -73,17 +71,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 817,
-    "timeDay": 538,
-    "timeWeek": 777,
-    "timeMonth": 829,
+    "time": 816,
+    "timeDay": 668,
+    "timeWeek": 735,
+    "timeMonth": 824,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2023-06-12": 21,
       "2023-02-21": 21,
       "2023-01-25": 65,
-      "2022-10-14": 118,
-      "2022-08-21": 115
+      "2022-10-14": 118
     }
   }
 ]
