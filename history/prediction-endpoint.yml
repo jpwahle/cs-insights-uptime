@@ -1,7 +1,7 @@
 url: http://cs-insights.uni-goettingen.de:8000/api/v0/status
 status: up
 code: 200
-responseTime: 1024
-lastUpdated: 2023-09-02T23:10:40.871Z
+responseTime: 912
+lastUpdated: 2023-09-03T23:11:16.739Z
 startTime: 2022-08-16T06:23:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
