@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "frontend",
     "status": "up",
-    "uptime": "85.96%",
+    "uptime": "85.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "74.33%",
-    "time": 1498,
-    "timeDay": 743,
-    "timeWeek": 862,
-    "timeMonth": 1215,
-    "timeYear": 1442,
+    "time": 1496,
+    "timeDay": 570,
+    "timeWeek": 786,
+    "timeMonth": 1195,
+    "timeYear": 1436,
     "dailyMinutesDown": {
       "2024-05-14": 89,
       "2023-11-24": 942,
@@ -110,8 +110,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1388,
-      "2023-06-12": 21
+      "2023-08-23": 1388
     }
   },
   {
@@ -120,18 +119,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "72.57%",
+    "uptime": "72.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.98%",
-    "uptimeYear": "53.92%",
-    "time": 964,
-    "timeDay": 90,
-    "timeWeek": 116,
-    "timeMonth": 196,
+    "uptimeMonth": "64.70%",
+    "uptimeYear": "53.65%",
+    "time": 963,
+    "timeDay": 95,
+    "timeWeek": 113,
+    "timeMonth": 190,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2024-06-10": 37,
+      "2024-06-11": 36,
+      "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -301,8 +301,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1388,
-      "2023-06-12": 21
+      "2023-08-23": 1388
     }
   },
   {
@@ -311,18 +310,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "prediction-endpoint",
     "status": "down",
-    "uptime": "98.50%",
+    "uptime": "98.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.98%",
-    "uptimeYear": "97.33%",
+    "uptimeMonth": "64.70%",
+    "uptimeYear": "97.05%",
     "time": 823,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 769,
+    "timeMonth": 758,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-06-10": 37,
+      "2024-06-11": 36,
+      "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -333,8 +333,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 941,
-      "2024-05-14": 88,
-      "2023-06-12": 21
+      "2024-05-14": 88
     }
   }
 ]
