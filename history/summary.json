@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "frontend",
     "status": "down",
-    "uptime": "80.99%",
+    "uptime": "80.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.70%",
-    "time": 980,
+    "uptimeYear": "69.43%",
+    "time": 979,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 877,
+    "timeYear": 876,
     "dailyMinutesDown": {
-      "2025-07-22": 6,
+      "2025-07-23": 6,
+      "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -137,7 +138,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "45.14%",
+    "uptime": "45.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -146,9 +147,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 119,
+    "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-07-22": 6,
+      "2025-07-23": 6,
+      "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -511,8 +513,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -521,18 +522,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "prediction-endpoint",
     "status": "down",
-    "uptime": "61.06%",
+    "uptime": "61.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 811,
+    "time": 812,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-22": 6,
+      "2025-07-23": 6,
+      "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -895,8 +897,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   }
 ]
