@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "frontend",
     "status": "down",
-    "uptime": "79.48%",
+    "uptime": "79.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "54.49%",
-    "time": 877,
+    "time": 879,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 895,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2025-09-15": 768,
       "2025-09-14": 1440,
@@ -191,11 +191,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "49.02%",
+    "uptime": "49.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.12%",
+    "uptimeYear": "37.39%",
     "time": 117,
     "timeDay": 0,
     "timeWeek": 0,
@@ -429,8 +429,7 @@
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
-      "2025-01-31": 1440,
-      "2025-01-30": 1440
+      "2025-01-31": 1440
     }
   },
   {
@@ -439,11 +438,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs-insights.uni-goettingen.de.ico",
     "slug": "prediction-endpoint",
     "status": "down",
-    "uptime": "62.55%",
+    "uptime": "62.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.12%",
+    "uptimeYear": "37.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -677,8 +676,7 @@
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
-      "2025-01-31": 1440,
-      "2025-01-30": 1440
+      "2025-01-31": 1440
     }
   }
 ]
